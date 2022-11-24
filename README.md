@@ -1,5 +1,5 @@
 # api-automation-taxdoo
-Automation of public api using Robot Framework's requests & collection library.
+Automation of api using Robot Framework's requests & collection library.
 
 https://gorest.co.in/
 
@@ -38,4 +38,4 @@ Prerequisites:
  
  Once script is ran, 3 files will be generated in the same path.
  Output file is an xml file
- Log & Report files are HTML files wjich can be open and seen in a browser window for detailed steps & report
+ Log & Report files are HTML files which can be open and seen in a browser window for detailed steps & report
